@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-THis is a simple website 
+THis is a simple website. Adding a line for rebasing
 
 ## Deplyment
 
@@ -16,7 +16,6 @@ sdvsbfdxbzxvnmjjmfhgngdfb
 
 
 dvsvxfb
-
 xfvb
 xvbx
 v
