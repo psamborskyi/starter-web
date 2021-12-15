@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 THis is a simple website. Adding a line for rebasing, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Deplyment
 
